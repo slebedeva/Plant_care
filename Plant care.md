@@ -1,17 +1,10 @@
----
-attachments: [Clipboard_2021-03-21-09-32-13.png, Clipboard_2021-03-21-09-33-13.png]
-favorited: true
-pinned: true
-title: Plant care
-created: '2021-03-21T08:14:08.641Z'
-modified: '2021-03-21T12:44:25.110Z'
----
+
 
 # Plant care
 
 | Plant | Description | Location | Repot |
 | --- | --- | --- | --- |
-| Amaryllis ![](@attachment/Clipboard_2021-03-21-09-33-13.png) | South Africa (forest) https://www.mein-schoener-garten.de/gartenpraxis/indoor/amaryllis-verblueht-was-tun-34631In summer should be outside (no direct sunlight) and will go into sleep in August. Don't use very big pot, if it has many small bulbs it will not bloom. For sleep 2-3mo. should be dark and cool (10-15 degrees - I guess balcony would still work hm). November take it inside and start watering, lots of light needed. Important : water only from below, better too dry than too wet! Think dry and rain season in Africa.| Winter: inside south, Summer: outside north | Spring | 
+| Amaryllis ![](attachments/Clipboard_2021-03-21-09-33-13.png) | South Africa (forest) [de](https://www.mein-schoener-garten.de/gartenpraxis/indoor/amaryllis-verblueht-was-tun-34631) In summer should be outside (no direct sunlight) and will go into sleep in August. Don't use very big pot, if it has many small bulbs it will not bloom. For sleep 2-3mo. should be dark and cool (10-15 degrees - I guess balcony would still work hm). November take it inside and start watering, lots of light needed. Important : water only from below, better too dry than too wet! Think dry and rain season in Africa.| Winter: inside south, Summer: outside north | Spring | 
 |Alocasia|South-East Asia. It needs a lot of warmth and watering but the soil should be like for orchids so that water can come through. And it needs warm distilled water. (Mine has lost all leaves so trying to rescue it by replacing into such soil, putting the bag around and waiting till it is warm...) Think tropical rainforest. No direct sunlight too. And roots can rot really easily too. | Inside south | Spring :+1:|
 | Ananas | how-to : I failed to root tops, many times, they all rot, in water and in soil, even if roots are already visible( If try again do it in summer so that fruits are not too cold. Have seeds, try to get them into over 30 degrees and highly humid and after 1mo. they might sprout. | | | 
 | Anthurium | Central and South America. Soil for aroid plants. Needs spraying. Medium light. Warm. Small pot stimulates flowering. https://rastenievod.com/anturium.html. Trips. | Inside south, away from window | Spring :+1: | 
@@ -21,6 +14,7 @@ modified: '2021-03-21T12:44:25.110Z'
 | Chlorophytum | America, S. Africa, subtropical near rivers. Likes spraying and moist (not too much though). Aerial light substrate is important! And fertilizer. Mine died for unknown reason (leaves started to rot from the root, decresing moisture did not help) | North inside | Spring | 
 | Codiaeum (кротон) | Pacific islands. Молочай. Яд! Если опадают листья, нужно пересадить, много удобрений, высокая влажность. Прищипать верхушку. Обязательно поливать тёплой водой, не допускать пересызание. Много рассеянного света, летом можно на улицу. Spinnmilbe. | South inside | :+1: Spring  |
 | Coffee arabica Nana | Winter high light, summer no direct sunlight, over 16C outside (in nature it is under trees so north balcony was good). Spraying good (not when in bloom). Soil acidic and light. Fertilizer. Cutting is stressful, but old tree could be cut on top and rooted again.  Needs deep pot because of the central root. Seeds should be planted right away if wanted. It actually should be 1 plant per pot. https://www.vogorodah.ru/vyrashhivanie-kofe-doma/ | Winter: South inside, Summer: North outside | :+1: Spring |
+| Crassula ovata (hobbit) | [ru](https://kaktus-sukkulent.ru/sukkulenti/vidi-sukkulentov/krassula-khobbit-i-gollum/) No panic if young plant starts to lose green leaves: it is getting a bonsai look :) Sunny, needs southern window. Water ~2w summer, less winter. Winter dormancy best at ~10-15C. | | as needed|
 | Crocus | Saffran family. Needs sandy high pH soil and sunny place (mine rotted in March showers). |  
 | Dracaena lucky bamboo | Cameroon . No direct sunlight, high humidity. High temperature. Trips can eat leaves. I rooted a sprout but it is not very spectacular. Original plant is in water with a drop of fertilizer and is neither dying nor growing. | North inside | Change water |
 | Dracaena | No direct sunlight, warm. Spraying fine. Water only when dry. | North inside | | 
