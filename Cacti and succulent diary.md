@@ -12,7 +12,7 @@ Source: 1.10 euro shop.
 
 1. Espostoa sp.  
 ![](attachments/Clipboard_2021-08-28-18-05-30.png)  
-Quick and dirty cleaned roots (I use old toothbrush) and put into the standard mix (1/3 sand 1-2mm, 1/3 standard plant soil, 1/3 cactus soil, take out larger wood/bark pieces, top and bottom 6-8mm stones). Since we do not have a lot of sun and it is well protected, put it on the south window right away, a little behind bigger pots.  
+Quick and dirty cleaned roots (I use old toothbrush) and put into the standard mix (1/3 sand 1-2mm, 1/3 standard plant soil, 1/3 cactus soil, take out larger wood/bark pieces, top and bottom 6-8mm stones). Since we do not have a lot of sun and it is well protected, put it on the south window right away, a little behind bigger pots. However, did hide it from the rain for the few days.  
 Note: sources say this species will not reach flowering maturity in pot.
 
 2. Coryphantha sp. (potosiana?)  
