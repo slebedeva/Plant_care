@@ -19,6 +19,7 @@
 #### 4.: New cactus: Sulcorebutia rauschii
 
 ![](attachments/sulco.jpg)  
+Source: toom baumarkt  
 Again, tuberous root with smaller roots completely rotten. I chose the dryest one and the only one with a tiny offset. For now it is in sand and outside.
 
 Plan for September: 
