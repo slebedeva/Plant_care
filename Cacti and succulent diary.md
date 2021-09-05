@@ -14,6 +14,23 @@
 - Залетаева - [Книга о кактусах](https://sheba.spb.ru/za/kniga-kaktus-1974.htm)
 - [Uhlig Kakteen](www.uhlig-kakteen.de) have a lot of [care info](https://www.uhlig-kakteen.info/seite/158381/richtig_giessen_und_duengen.html), including diseases and cactus [calender](https://www.uhlig-kakteen.de/de/service/kakteenjahr/)
 
+### September 2021
+
+#### 4.: New cactus: Sulcorebutia rauschii
+
+![](attachments/sulco.jpg)  
+Again, tuberous root with smaller roots completely rotten. I chose the dryest one and the only one with a tiny offset. For now it is in sand and outside.
+
+Plan for September: 
+- no more adult plant purchases 
+- one more watering, now that the days are relatively warm (up to 20 degrees with some sun)
+- if it starts raining, move them to the balcony but keep outside in colder nights to harden them
+- in October depending on weather, move inside
+
+New substrate: lechuga pon. A compromise for the price, since it has pumice, lava and zeolith, I only need to dry it a bit and remove fertilizer balls.  
+This will be my main mineral component from now on, will still add some 1-2mm sand for structure and some garden soil, proportions depend on the species.  
+Before winter I will only pot the two tuberous root people into it, and they do need a lot of mineral.
+
 ### August 2021
 
 #### 28.: new cacti arrivals
