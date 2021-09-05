@@ -9,9 +9,10 @@
 
 
 ## Links
-- guide with many pictures https://cactiguide.com/ 
+- species guide with many pictures https://cactiguide.com/ 
 - [pictures of NL cacti](https://www.cactuskiev.com.ua/gallery/index.php/category/175-%D0%BA%D0%B0%D0%BA%D1%82%D1%83%D1%81%D1%8B)
 - Залетаева - [Книга о кактусах](https://sheba.spb.ru/za/kniga-kaktus-1974.htm)
+- [Uhlig Kakteen](www.uhlig-kakteen.de) have a lot of [care info](https://www.uhlig-kakteen.info/seite/158381/richtig_giessen_und_duengen.html), including diseases and cactus [calender](https://www.uhlig-kakteen.de/de/service/kakteenjahr/)
 
 ### August 2021
 
